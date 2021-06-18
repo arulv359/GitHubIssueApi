@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Issue App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_issue_details">Issue Details</string>
+
+</resources>
